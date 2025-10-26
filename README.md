@@ -18,3 +18,7 @@ The Pico receives some game text information and can send integer inputs to inte
 **Current code for the server and Pico W (awaiting an improved version):**  
 [https://github.com/EloiStree/2025_10_26_GameJam0H](https://github.com/EloiStree/2025_10_26_GameJam0H)  
 
+----------
+
+- https://github.com/EloiStree/2024_08_14_ProjectBulletHellCS  
+- https://github.com/EloiStree/2024_08_15_StayAliveExercice  
