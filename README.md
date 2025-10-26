@@ -2,7 +2,8 @@
 
 > A basic sample to start a coding tournament in Unity3D.
 
-Collaborative space with [@BriBri0911](https://github.com/bribri0911) and [@EloiStree](https://github.com/eloistree) to organize a Unity3D Coding Tournament game.
+Collaborative space with [@BriBri0911](https://github.com/bribri0911) and [@EloiStree](https://github.com/eloistree) to organize some Coding Tournament game.  
+This git is the Unity3D start sample.   
 
 The basic idea is to have the Pico 2W host player code.
 The Pico receives some game text information and can send integer inputs to interact.
