@@ -5,15 +5,15 @@
 Collaborative space with [@BriBri0911](https://github.com/bribri0911) and [@EloiStree](https://github.com/eloistree) to organize some Coding Tournament game.  
 This git is the Unity3D start sample.   
 
-The basic idea is to have the Pico 2W host player code.
-The Pico receives some game text information and can send integer inputs to interact.
+The basic idea is to have the Pico 2W host player code.  
+The Pico receives some game text information and can send integer inputs to interact.  
 
-**Firmware for the Pico 2W used in the tournament:**
-[<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c27fd7b3-0d6b-4f86-b516-15f53cf1e884" />](https://circuitpython.org/board/raspberry_pi_pico2_w/)
-[https://circuitpython.org/board/raspberry_pi_pico2_w/](https://circuitpython.org/board/raspberry_pi_pico2_w/)
+**Firmware for the Pico 2W used in the tournament:**  
+[<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c27fd7b3-0d6b-4f86-b516-15f53cf1e884" />](https://circuitpython.org/board/raspberry_pi_pico2_w/)  
+[https://circuitpython.org/board/raspberry_pi_pico2_w/](https://circuitpython.org/board/raspberry_pi_pico2_w/)  
 
 **Unity Version:** n/a
 
-**Current code for the server and Pico W (awaiting an improved version):**
-[https://github.com/EloiStree/2025_10_26_GameJam0H](https://github.com/EloiStree/2025_10_26_GameJam0H)
+**Current code for the server and Pico W (awaiting an improved version):**  
+[https://github.com/EloiStree/2025_10_26_GameJam0H](https://github.com/EloiStree/2025_10_26_GameJam0H)  
 
