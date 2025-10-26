@@ -1,2 +1,18 @@
-# 2025_10_26_CodingTournamentUnity3DSample
-Basic sample of to start a coding tournament in Unity3D.
+# Coding Tournament Unity3D Sample
+
+> A basic sample to start a coding tournament in Unity3D.
+
+Collaborative space with @BriBri0911 and @EloiStree to organize a Unity3D Coding Tournament game.
+
+The basic idea is to have the Pico 2W host player code.
+The Pico receives some game text information and can send integer inputs to interact.
+
+**Firmware for the Pico 2W used in the tournament:**
+[<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c27fd7b3-0d6b-4f86-b516-15f53cf1e884" />](https://circuitpython.org/board/raspberry_pi_pico2_w/)
+[https://circuitpython.org/board/raspberry_pi_pico2_w/](https://circuitpython.org/board/raspberry_pi_pico2_w/)
+
+**Unity Version:** n/a
+
+**Current code for the server and Pico W (awaiting an improved version):**
+[https://github.com/EloiStree/2025_10_26_GameJam0H](https://github.com/EloiStree/2025_10_26_GameJam0H)
+
